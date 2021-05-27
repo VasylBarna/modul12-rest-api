@@ -1,0 +1,27 @@
+{
+  "name": "modul12-rest-api",
+  "version": "1.0.0",
+  "description": "Модуль 12. REST-пагинация и бесконечный скрол",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VasylBarna/modul12-rest-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VasylBarna/modul12-rest-api/issues"
+  },
+  "homepage": "https://github.com/VasylBarna/modul12-rest-api#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5",
+    "parcel-plugin-handlebars-precompile": "^1.0.2",
+    "parcel-plugin-nuke-dist": "^1.0.1"
+  },
+  "dependencies": {}
+}
